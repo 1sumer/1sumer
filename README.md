@@ -20,15 +20,15 @@
 
 <h2 align="center">❤️ Best Tools:</h2>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="github" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/github/index.html" alt="github" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" alt="html" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/index.html" alt="powerbi" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="80" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
 </p>
