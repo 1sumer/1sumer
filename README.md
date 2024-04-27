@@ -1,1 +1,33 @@
 # Sumer-Pasha
+
+<h1 align="center">M Sumer Pasha 👋</h1>
+<h3 align="center">Data wizard from the IT Hub Bangaluru</h3>
+
+
+## 💫 About Me:
+- 🔭 Currently working
+- 🌱 Learning JavaScript
+- 👯 Open to collaboration
+- 💬 Ask me about ML, DA, EDA
+- 📫 Reach me at: sameerpasha658@gmail.com
+
+<H1 align="center">⚡ Fun fact: "Data is the new oil" 🤑 - Clive Humby</H1>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumer.pasha.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sameerpasha.78/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-pasha-70884a152/) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-yellow?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sumerpashar)
+
+<h2 align="center">❤️ Best Tools:</h2>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80"/>
+</p>
+
+Bye! Don't forget to give ⭐️💫
