@@ -1,5 +1,3 @@
-# Sumer-Pasha
-
 <h1 align="center">I'M Sumer Pasha 👋</h1>
 
 <h3 align="center">Data wizard from the IT Hub Bangaluru</h3>
@@ -34,16 +32,6 @@
 </p>
 
 ## 🛠️ My Favorite Tools:
-- [![Power BI](https://img.shields.io/badge/Power_BI-%230077B5.svg?logo=Power-BI&logoColor=white)](https://learn.microsoft.com/en-us/power-bi/)
-- [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
-- [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-- [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
-- [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-- [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
-- [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=OpenCV&logoColor=white)](https://opencv.org/)
-- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
-- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Power BI](https://img.shields.io/badge/Power_BI-%230077B5.svg?logo=Power-BI&logoColor=white)](https://learn.microsoft.com/en-us/power-bi/)  [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)  [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)  [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)  [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)  [![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)  [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=OpenCV&logoColor=white)](https://opencv.org/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=Git&logoColor=white)](https://git-scm.com/)  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/index.html)  [![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)](https://www.scala-lang.org/)  [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)  [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 <h2 align="center">❤️ Bye! Don't forget to give ⭐️💫:</h2>
