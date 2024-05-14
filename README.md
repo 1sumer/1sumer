@@ -6,13 +6,13 @@
 
 
 ## 💫 About Me:
-- 🔭 Currently working
+- 🔭 Currently working at Analogica Software Devlopment Pvt Ltd
 - 🌱 Learning JavaScript
 - 👯 Open to collaboration
-- 💬 Ask me about ML, DA, EDA
+- 💬 Ask me about Machine Learning, Data Analytic, Data Science, Exploratory Data Analysis, SQL
 - 📫 Reach me at: sameerpasha658@gmail.com
 
-<H1 align="center">⚡ Fun fact: "Data is the new oil" 🤑 - Clive Humby</H1>
+<H1 align="center">⚡ Fun fact: "Data is the new Fuel" 🤑 - Clive Humby</H1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumer.pasha.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sameerpasha.78/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-pasha-70884a152/) 
