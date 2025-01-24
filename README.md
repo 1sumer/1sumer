@@ -34,7 +34,7 @@ Explore my projects and achievements on my [Portfolio Website](https://1sumer.gi
 - **Data Analysis**: Exploratory Data Analysis (EDA), Statistical Analysis  
 - **Visualization Tools**: Power BI, Matplotlib, Seaborn, Matplotlib
 - **Automation**: Python Automation, GUI (Tkinter), Email Automation (SMTP), Web Scraping (BeautifulSoup, Selenium)  
-- **Database Management**: SQL, MySQL, ETL Processes, Data Cleaning  
+- **Database Management**: SQL, MySQL, ETL Processes, Data Cleaning, PySpark  
 - **Machine Learning**: Supervised & Unsupervised Learning, Scikit-Learn  
 - **Tools**: Git, GitHub
 
