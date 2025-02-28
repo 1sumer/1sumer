@@ -47,6 +47,15 @@ Explore my projects and achievements on my [Portfolio Website](https://1sumer.gi
 ---
 
 ## 📊 Projects:
+
+### **Crop & Fertilizer Recommendation System**
+- **Tools Used**: Python, Tkinter, Pandas, scikit-learn, Numpy, Flask, Render
+- Developed a Flask-based web application that predicts the optimal crop to grow based on soil and weather conditions and recommends the right fertilizer for a healthier yield using a Random Forest Classifier.
+- Implemented a machine learning model integrated with a Python backend and deployed the solution on Render Cloud.
+- Planned future enhancements include integrating a real-time weather API for dynamic predictions, deploying on AWS SageMaker for scalability, and expanding to a mobile app version.
+- **Live App**: [agriculture-pridiction.onrender.com](https://agriculture-pridiction.onrender.com/) | GitHub Repo: [github.com/1sumer/Agriculture_Pridiction](https://github.com/1sumer/Agriculture_Pridiction).
+
+
 ### **Invoice Generation and Data Analysis System**
 - **Tools Used**: Python, MySQL, Tkinter, Pandas  
 - Developed a Python-based invoicing system that collects transaction data and stores it in MySQL for analysis.  
