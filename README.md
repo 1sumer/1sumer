@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Portfolio  
-Explore my projects and achievements on my [Portfolio Website](https://1sumer.github.io/Sumer-Portfolio/)  
+Explore my projects and achievements on my [Portfolio Website](https://1sumer.github.io/Portfolio/)
 
 ---
 
