@@ -1,13 +1,18 @@
 # Sumer Pasha  
-**Data Analyst | Python Automation Engineer**
+**Data Analyst | Machine Learning Engineer | Python Automation Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](http://www.linkedin.com/in/sumer-pasha-70884a152)  
-[![GitHub](https://img.shields.io/badge/GitHub-1sumer-lightgrey)](https://github.com/1sumer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](http://www.linkedin.com/in/sumer-pasha-70884a152)
+
+[![GitHub](https://img.shields.io/badge/GitHub-1sumer-lightgrey)](https://github.com/1sumer)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-sameerpasha658-brightgreen)](https://www.hackerrank.com/sameerpasha658)
 
 ---
 
 ## 🌐 Portfolio  
-Explore my projects and achievements on my [Portfolio Website](https://1sumer.github.io/Portfolio/)
+Explore my projects and achievements on my
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sumer%20Pasha-brightgreen)](https://1sumer.github.io/Portfolio/)
 
 ---
 
