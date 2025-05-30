@@ -1,4 +1,4 @@
-# Sumer Pasha  
+# **Sumer Pasha**
 **Data Analyst | Machine Learning Engineer | Python Automation Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](http://www.linkedin.com/in/sumer-pasha-70884a152)
