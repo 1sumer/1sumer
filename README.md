@@ -17,10 +17,10 @@ Explore my projects and achievements on my
 
 ## 💫 About Me:
 - 🔭 Currently working at **Analogica Software Development Pvt Ltd** as a Data Analyst & Python Automation Engineer.  
-- 🌱 Currently exploring advanced **automation techniques**.  
-- 👯 Open to collaborating on **Data Analytics**, **Python Automation**, and **ETL Pipeline Development** projects.  
-- 💬 Ask me about **SQL**, **Python**, **Data Visualization**, and **Machine Learning**.  
-- 📫 Reach me at: **sameerpasha658@gmail.com**  
+- 🌱 Currently exploring advanced **Machine Learing**.  
+- 👯 Open to collaborating on **Data Analytics**, **Python Automation**, **ETL Pipeline Development** and **Macine Learning** projects.  
+- 💬 Ask me about **Python**, **SQL**, **R**, **Data Visualization(Power BI)**, and **Machine Learning**.  
+- 📫 Reach me at: [sameerpasha658@gmail.com](mailto:[sameerpasha658@gmail.com]) 
 
 ---
 
@@ -34,13 +34,17 @@ Explore my projects and achievements on my
 ---
 
 ## 🛠️ Skills:
-- **Languages**: Python, SQL, R  
-- **Data Analysis**: Exploratory Data Analysis (EDA), Statistical Analysis  
-- **Visualization Tools**: Power BI, Matplotlib, Seaborn, Matplotlib
+- **Languages**: Python, SQL, R
+- **Programming & Automation**: Python (Pandas, Numpy, PySpark, Regex).
+- **Data Analysis & Visualization**: Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn, Pandas
+- **Statistical Analysis**: Probability Distributions, Inferential Statistics, Regression Analysis, Hypothesis Testing 
+- **Data Management**: MySQL, MongoDB, ETL Processes, Data Cleaning, Data Modeling
+- **Business Intelligence**: Dashboard Creation, Reporting, and KPI Monitoring.
+- **Tools & Technologies**: Git, GitHub, Jupyter Notebooks, VS Code.
 - **Automation**: Python Automation, GUI (Tkinter), Email Automation (SMTP), Web Scraping (BeautifulSoup, Selenium)  
-- **Database Management**: SQL, MySQL, ETL Processes, Data Cleaning, PySpark  
-- **Machine Learning**: Supervised & Unsupervised Learning, Scikit-Learn  
-- **Tools**: Git, GitHub
+- **Machine Learning**: Supervised & Unsupervised Learning, Scikit-Learn.
+- **Cloud & Big Data**: AWS (S3, Athena, Glue), Apache Spark
+- **Soft skills**: problem-solving, analytical thinking, and team collaboration.
 
 ---
 
@@ -52,13 +56,27 @@ Explore my projects and achievements on my
 
 ## 📊 Projects:
 
+### **Pizza Sales and Performance Analytics**
+- **Tools Used**: SQL Server, Python (pandas, matplotlib, seaborn)
+- Performed end-to-end analysis of a pizza chain's sales data to uncover business insights around revenue, customer behavior, and product performance.
+- Integrated SQL Server with Python for seamless data extraction and transformation using pandas.
+- Wrote advanced SQL queries (joins, CTEs, subqueries, aggregations) to analyze time-based trends, top products, and ingredient segmentation.
+- Visualized key metrics using matplotlib and seaborn (e.g., peak sales hours, daily/weekly patterns, top categories).
+- Delivered actionable insights through Python-driven reports and charts, supporting strategic decisions for marketing and operations.
+
+### **Hospitality Analysis**
+- **Tools Used**: Power BI, DAX
+- Designed and developed interactive Power BI dashboards to analyze hotel performance across revenue, ratings, bookings, and occupancy.
+- Created calculated columns and measures using DAX for KPIs such as revenue generated vs. realized, occupancy rate, cancellation rate, and average rating.
+- Segmented performance analysis by hotel category, city, room type, booking platform, and day type to identify top-performing segments and areas for improvement.
+- Delivered actionable insights that supported strategic decisions in pricing, marketing, and operational planning.
+
 ### **Crop & Fertilizer Recommendation System**
 - **Tools Used**: Python, Tkinter, Pandas, scikit-learn, Numpy, Flask, Render
 - Developed a Flask-based web application that predicts the optimal crop to grow based on soil and weather conditions and recommends the right fertilizer for a healthier yield using a Random Forest Classifier.
 - Implemented a machine learning model integrated with a Python backend and deployed the solution on Render Cloud.
 - Planned future enhancements include integrating a real-time weather API for dynamic predictions, deploying on AWS SageMaker for scalability, and expanding to a mobile app version.
-- **Live App**: [agriculture-pridiction.onrender.com](https://agriculture-pridiction.onrender.com/) | GitHub Repo: [github.com/1sumer/Agriculture_Pridiction](https://github.com/1sumer/Agriculture_Pridiction).
-
+- **Live App**: [agriculture-pridiction.onrender.com](https://agriculture-pridiction.onrender.com/) | **GitHub Repo**: [github.com/1sumer/Agriculture_Pridiction](https://github.com/1sumer/Agriculture_Pridiction).
 
 ### **Invoice Generation and Data Analysis System**
 - **Tools Used**: Python, MySQL, Tkinter, Pandas  
@@ -81,8 +99,8 @@ Explore my projects and achievements on my
 ## ✍️ Blogs:
 - [**The Importance of SQL in Today's World**](https://certisured.com/blogs/the-importance-of-sql-in-today-s-world-a-fundamental-data-manipulation-language)  
 - [**Python’s OOP Revolution**](https://certisured.com/blogs/python-oop-revolution/)  
-- [**Exploring the Core Principles of Decision Tree in Machine Learning**](#)  
-- [**Understanding Regularization: Preventing Overfitting**](#)  
+- [**Mastering Data Cleaning with Python: Pandas, Matplotlib, and Seaborn**](https://www.linkedin.com/pulse/mastering-data-cleaning-python-pandas-matplotlib-seaborn-sumer-pasha-wjjuc)  
+- [**Understanding Regularization: How to Prevent Overfitting in Machine Learning Models**](https://www.linkedin.com/pulse/understanding-regularization-how-prevent-overfitting-machine-pasha-mqwqc) 
 
 ---
 
