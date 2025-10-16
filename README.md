@@ -1,4 +1,4 @@
-![Sumer Pasha](https://media.licdn.com/dms/image/v2/D5616AQEKq2njMRFCxw/profile-displaybackgroundimage-shrink_350_1400/B56Znm.BtbI0AY-/0/1760516647208?e=1763596800&v=beta&t=w9vRgdkLrcvgXlBdnemXBc2q232VGrR-DdlYbpUuvE8)
+![Sumer Pasha](https://github.com/1sumer/1sumer/blob/main/Sumer%20Pasha.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](http://www.linkedin.com/in/sumer-pasha-70884a152)
 
