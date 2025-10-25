@@ -36,14 +36,14 @@ Explore my projects and achievements on my
 ## 🛠️ Skills:
 - **Languages**: Python, SQL, R
 - **Programming & Automation**: Python (Pandas, Numpy, PySpark, Regex).
-- **Data Analysis & Visualization**: Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn, Pandas
-- **Statistical Analysis**: Probability Distributions, Inferential Statistics, Regression Analysis, Hypothesis Testing 
+- **Data Analysis & Visualization**: Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn
+- **Statistical Analysis**: Probability Distributions, Descriptive Statistics, Regression Analysis, Hypothesis Testing 
 - **Data Management**: MySQL, MongoDB, ETL Processes, Data Cleaning, Data Modeling
 - **Business Intelligence**: Dashboard Creation, Reporting, and KPI Monitoring.
 - **Tools & Technologies**: Git, GitHub, Jupyter Notebooks, VS Code.
 - **Automation**: Python Automation, GUI (Tkinter), Email Automation (SMTP), Web Scraping (BeautifulSoup, Selenium)  
 - **Machine Learning**: Supervised & Unsupervised Learning, Scikit-Learn.
-- **Cloud & Big Data**: AWS (S3, Athena, Glue), Apache Spark
+- **Cloud & Big Data**: AWS (S3, Athena, Glue)
 - **Soft skills**: problem-solving, analytical thinking, and team collaboration.
 
 ---
@@ -78,16 +78,24 @@ Explore my projects and achievements on my
 - Planned future enhancements include integrating a real-time weather API for dynamic predictions, deploying on AWS SageMaker for scalability, and expanding to a mobile app version.
 - **Live App**: [agriculture-pridiction.onrender.com](https://agriculture-pridiction.onrender.com/) | **GitHub Repo**: [github.com/1sumer/Agriculture_Pridiction](https://github.com/1sumer/Agriculture_Pridiction).
 
+### **Global Superstore Sales Profitability Analysis**  
+- **Tools Used**: SQL, Python, Power BI, Pandas, NumPy  
+- Analyzed sales and shipping dynamics to improve profitability and operational efficiency.  
+- Built Power BI dashboards to identify trends, top-performing regions, and customer segments.  
+
 ### **Invoice Generation and Data Analysis System**
 - **Tools Used**: Python, MySQL, Tkinter, Pandas  
 - Developed a Python-based invoicing system that collects transaction data and stores it in MySQL for analysis.  
 - Automated invoice generation, improving accuracy and reducing manual errors by 30%.  
 - Performed customer behavior analysis to derive actionable insights for sales optimization.  
 
-### **Global Superstore Sales Profitability Analysis**  
-- **Tools Used**: SQL, Python, Power BI, Pandas, NumPy  
-- Analyzed sales and shipping dynamics to improve profitability and operational efficiency.  
-- Built Power BI dashboards to identify trends, top-performing regions, and customer segments.  
+### **Email Automation Tool**
+
+* **Tools Used:** Python, Tkinter, SMTP, CSV/Excel
+* Developed a GUI-based email automation application using Tkinter to send bulk personalized emails securely via SMTP.
+* Integrated CSV/Excel file support to dynamically populate recipient details and customize email content.
+* Enabled automatic PDF attachment handling for professional communication in marketing, notifications, and outreach.
+* Delivered a scalable and user-friendly solution to streamline email workflows for businesses and professionals.
 
 ### **E-Commerce Data Extraction and Analysis**  
 - **Tools Used**: Python (BeautifulSoup, Pandas), Power BI  
