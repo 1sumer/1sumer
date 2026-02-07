@@ -16,9 +16,9 @@ Explore my projects and achievements on my
 ---
 
 ## 💫 About Me:
-- 🔭 Currently working at **Analogica Software Development Pvt Ltd** as a Data Analyst & Python Automation Engineer.  
+- 🔭 Currently working at **Hindustan Coca Cola Beverages (HCCB)** as a Data Analyst & Python Automation Engineer.  
 - 🌱 Currently exploring advanced **Machine Learing**.  
-- 👯 Open to collaborating on **Data Analytics**, **Python Automation**, **ETL Pipeline Development** and **Macine Learning** projects.  
+- 👯 Open to collaborating on **Data Analytics**, **Python Automation Engineer** and **Macine Learning Engineer** projects.  
 - 💬 Ask me about **Python**, **SQL**, **R**, **Data Visualization(Power BI)**, and **Machine Learning**.  
 - 📫 Reach me at: [sameerpasha658@gmail.com](mailto:[sameerpasha658@gmail.com]) 
 
