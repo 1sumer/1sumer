@@ -1,6 +1,6 @@
 ![Sumer Pasha](https://github.com/1sumer/1sumer/blob/main/Sumer%20Pasha.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](http://www.linkedin.com/in/sumer-pasha-70884a152)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](https://www.linkedin.com/in/sumer-pasha/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-1sumer-lightgrey)](https://github.com/1sumer)
 
@@ -34,14 +34,14 @@ Explore my projects and achievements on my
 ---
 
 ## 🛠️ Skills:
-- **Languages**: Python, SQL, R
+- **Languages**: Python, SQL
 - **Programming & Automation**: Python (Pandas, Numpy, PySpark, Regex).
 - **Data Analysis & Visualization**: Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn
 - **Statistical Analysis**: Probability Distributions, Descriptive Statistics, Regression Analysis, Hypothesis Testing 
 - **Data Management**: MySQL, MongoDB, ETL Processes, Data Cleaning, Data Modeling
 - **Business Intelligence**: Dashboard Creation, Reporting, and KPI Monitoring.
 - **Tools & Technologies**: Git, GitHub, Jupyter Notebooks, VS Code.
-- **Automation**: Python Automation, GUI (Tkinter), Email Automation (SMTP), Web Scraping (BeautifulSoup, Selenium)  
+- **AI & Automation:**: Microsoft Copilot Studio, Power Automate (AI Flows), AI Agents, Python Automation, GUI (Tkinter), Email Automation (SMTP), Web Scraping (BeautifulSoup, Selenium)  
 - **Machine Learning**: Supervised & Unsupervised Learning, Scikit-Learn.
 - **Cloud & Big Data**: AWS (S3, Athena, Glue)
 - **Soft skills**: problem-solving, analytical thinking, and team collaboration.
@@ -82,12 +82,6 @@ Explore my projects and achievements on my
 - **Tools Used**: SQL, Python, Power BI, Pandas, NumPy  
 - Analyzed sales and shipping dynamics to improve profitability and operational efficiency.  
 - Built Power BI dashboards to identify trends, top-performing regions, and customer segments.  
-
-### **Invoice Generation and Data Analysis System**
-- **Tools Used**: Python, MySQL, Tkinter, Pandas  
-- Developed a Python-based invoicing system that collects transaction data and stores it in MySQL for analysis.  
-- Automated invoice generation, improving accuracy and reducing manual errors by 30%.  
-- Performed customer behavior analysis to derive actionable insights for sales optimization.  
 
 ### **Email Automation Tool**
 
