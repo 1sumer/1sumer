@@ -8,7 +8,7 @@
 
 ---
 
-## 🌐 Portfolio  
+## Portfolio  
 Explore my projects and achievements on my
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Sumer%20Pasha-brightgreen)](https://1sumer.github.io/Portfolio/)
@@ -16,15 +16,17 @@ Explore my projects and achievements on my
 ---
 
 ## 💫 About Me:
-- 🔭 Currently working at **Hindustan Coca Cola Beverages (HCCB)** as a Data Analyst & Python Automation Engineer.  
-- 🌱 Currently exploring advanced **Machine Learing**.  
-- 👯 Open to collaborating on **Data Analytics**, **Python Automation Engineer** and **Macine Learning Engineer** projects.  
-- 💬 Ask me about **Python**, **SQL**, **R**, **Data Visualization(Power BI)**, and **Machine Learning**.  
-- 📫 Reach me at: [sameerpasha658@gmail.com](mailto:[sameerpasha658@gmail.com]) 
+- Data Analyst @ HCCB | Python • SQL • Power BI • Machine Learning | Helping Businesses Identify Growth Opportunities & Risks Through Advanced EDA.
+- Data Analyst with 3+ years of experience leveraging SQL, Python, and Power BI to analyze data, optimize workflows,automate business processes, and deliver actionable insights for data-driven decision-making.
+- Proficient in SQL, Python, Power BI, and Exploratory Data Analysis (EDA), with expertise in transforming complex datasets into meaningful visualizations, dashboards, and strategic business reports.  
+- Experienced in developing interactive dashboards, monitoring KPIs, conducting trend analysis, and creating automated reporting solutions to enhance operational efficiency and business performance.
+- Skilled in designing and deploying intelligent automation solutions using Microsoft Copilot Studio, Power Automate, and Python-based workflows to streamline business operations and improve productivity.
+- Strong understanding of Machine Learning, predictive analytics, and AI-driven solutions, utilizing Python to develop datadriven models, solve business challenges, and enhance operational efficiency.    
+- Reach me at: [sameerpasha658@gmail.com](mailto:[sameerpasha658@gmail.com]) 
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-pasha-70884a152/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/1sumer)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumer.pasha.58)  
@@ -36,8 +38,8 @@ Explore my projects and achievements on my
 ## 🛠️ Skills:
 - **Languages**: Python, SQL
 - **Programming & Automation**: Python (Pandas, Numpy, PySpark, Regex).
-- **Data Analysis & Visualization**: Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn
-- **Statistical Analysis**: Probability Distributions, Descriptive Statistics, Regression Analysis, Hypothesis Testing 
+- **Data Analysis & Visualization**: Advanced Excel, Power BI, Exploratory Data Analysis (EDA), Matplotlib, Seaborn, Predictive Analytics
+- **Statistical Analysis**: Probability Distributions, Descriptive Statistics, Regression Analysis, Hypothesis Testing, Predictive Models
 - **Data Management**: MySQL, MongoDB, ETL Processes, Data Cleaning, Data Modeling
 - **Business Intelligence**: Dashboard Creation, Reporting, and KPI Monitoring.
 - **Tools & Technologies**: Git, GitHub, Jupyter Notebooks, VS Code.
@@ -48,13 +50,31 @@ Explore my projects and achievements on my
 
 ---
 
-## 🎓 Education  
+## Experience
+### Hindustan Coca-Cola Beverages (HCCB), Bengaluru  
+**Data Analyst** | *2025 - Present*
+- Conducted in-depth exploratory data analysis on complex corporate datasets to uncover actionable business insights and support data-driven strategies across cross-functional teams.
+- Applied predictive analytics and statistical techniques using Python to identify trends, forecast outcomes, and contribute to strategic business initiatives.
+- Designed and deployed interactive Power BI dashboards and visualizations to track key performance indicators (KPIs), improving visibility into business performance and operational metrics.
+- Architected and implemented intelligent AI agents using Microsoft Copilot Studio and Power Automate to automate business workflows, streamline support processes, and enhance operational efficiency.
+
+### Analogica Software Dev Pvt Ltd, Bengaluru  
+**Data Analyst & Python Automation Engineer** | *2023 - 2025*
+- Performed comprehensive exploratory data analysis (EDA) on large datasets to extract actionable insights and improve operational efficiency.
+- Developed and maintained SQL-based data pipelines, optimizing workflows and enhancing data processing performance.
+- Built interactive Power BI dashboards to monitor KPIs and business trends, enabling faster and more accurate decision-making.
+- Automated repetitive tasks such as mass email campaigns and invoicing using Python, significantly reducing manual effort.
+- Collaborated with cross-functional teams to translate business requirements into scalable data-driven solutions using Python, SQL, and BI tools.
+
+---
+
+## Education  
 - **Bachelor of Engineering (Mechanical)** – R L Jalappa Institute of Technology, Doddaballapur (2016–2020)  
 - **PUC (PCMB)** – Poorna Prajna P U College, Chickballapur (2014–2016)  
 
 ---
 
-## 📊 Projects:
+## Projects:
 
 ### **Pizza Sales and Performance Analytics**
 - **Tools Used**: SQL Server, Python (pandas, matplotlib, seaborn)
@@ -98,7 +118,7 @@ Explore my projects and achievements on my
 
 ---
 
-## ✍️ Blogs:
+## Blogs:
 - [**The Importance of SQL in Today's World**](https://certisured.com/blogs/the-importance-of-sql-in-today-s-world-a-fundamental-data-manipulation-language)  
 - [**Python’s OOP Revolution**](https://certisured.com/blogs/python-oop-revolution/)  
 - [**Mastering Data Cleaning with Python: Pandas, Matplotlib, and Seaborn**](https://www.linkedin.com/pulse/mastering-data-cleaning-python-pandas-matplotlib-seaborn-sumer-pasha-wjjuc)  
@@ -106,7 +126,7 @@ Explore my projects and achievements on my
 
 ---
 
-## 📁 Certifications:
+## Certifications:
 - **Data Analytics with Python & SQL** – Certisured  
 - **Diploma in Machine Learning & AI** – Certisured  
 - **Scala Programming for Data Science** – Scala  
@@ -130,7 +150,7 @@ Explore my projects and achievements on my
 
 ---
 
-## 🛠️ My Favorite Tools:
+## My Favorite Tools:
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)  
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
