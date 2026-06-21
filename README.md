@@ -1,10 +1,12 @@
 ![Sumer Pasha](https://github.com/1sumer/1sumer/blob/main/Sumer%20Pasha.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumer%20Pasha-blue)](https://www.linkedin.com/in/sumer-pasha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-pasha-70884a152/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-1sumer-lightgrey)](https://github.com/1sumer)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/1sumer)  
+ 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/sumerpasha)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-sameerpasha658-brightgreen)](https://www.hackerrank.com/sameerpasha658)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sameerpasha658)
 
 ---
 
@@ -23,15 +25,6 @@ Explore my projects and achievements on my
 - Skilled in designing and deploying intelligent automation solutions using Microsoft Copilot Studio, Power Automate, and Python-based workflows to streamline business operations and improve productivity.
 - Strong understanding of Machine Learning, predictive analytics, and AI-driven solutions, utilizing Python to develop datadriven models, solve business challenges, and enhance operational efficiency.    
 - Reach me at: [sameerpasha658@gmail.com](mailto:[sameerpasha658@gmail.com]) 
-
----
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumer-pasha-70884a152/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/1sumer)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumer.pasha.58)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sameerpasha.78/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/sumerpasha)  
 
 ---
 
@@ -172,3 +165,8 @@ Explore my projects and achievements on my
 
 <h2 align="center">❤️ Fun Fact: "Data is the new fuel" 🤑 - Clive Humby</h2>
 <h2 align="center">⭐️ Don't forget to give a star to my repositories! 💫</h2>
+
+---
+
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sameerpasha.78/)  
